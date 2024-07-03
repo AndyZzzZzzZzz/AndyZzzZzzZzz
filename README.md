@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, data analysis, systems programming, and machine learning.
 - 🌱 I’m currently learning advanced statistical models, clustering techniques, and exploring quantum computing applications.
 - 💞️ I’m looking to collaborate on projects involving C++, Python, data science, and AI-driven applications.
-- 📫 How to reach me kza63@sfu.ca
+- 📫 How to reach me zkpAndy@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I competed in the League of Legends: Wild Rift North America Qualifier and achieved a top 8 position!
 
