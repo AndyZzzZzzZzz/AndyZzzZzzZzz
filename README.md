@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Software Developer
 -----------------------------------
 
-I have hands-on experience in data analysis, machine learning, and software development, with a strong background in Python, C++, JavaScript, and SQL. My recent projects include a dynamic C++ bank simulation program and a comprehensive grade management app developed in Python. I have also conducted advanced research in epidemiology that involves statistical modeling and cluster analysis. I'm passionate about leveraging technology to solve complex problems and am always eager to learn and collaborate on innovative projects.
+I love diving into data analysis, machine learning, and software dev with Python, C++, JavaScript, and SQL. Recently, I built a C++ bank simulation and a Python grade management app. I also did some cool epidemiology research involving statistical modeling and cluster analysis. Always excited to tackle tech challenges and collaborate on innovative projects!
 
 * 🌍  I'm based in Vancouver
 * ✉️  You can contact me at [zkpAndy@outlook.com](mailto:zkpAndy@outlook.com)
