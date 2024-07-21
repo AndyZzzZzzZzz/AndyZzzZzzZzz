@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andy Zhang
 ==================================================================================================================================
 
-Data Scientist | Software Developer
+Software Engineer | Data Scientist
 -----------------------------------
 
 I love diving into data analysis, machine learning, and software dev with Python, C++, JavaScript, and SQL. Recently, I built a C++ bank simulation and a Python grade management app. I also did some cool epidemiology research involving statistical modeling and cluster analysis. Always excited to tackle tech challenges and collaborate on innovative projects!
