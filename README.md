@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Data Scientist
 -----------------------------------
 
-I love diving into data analysis, machine learning, and software dev with Python, C++, JavaScript, and SQL. Recently, I built a C++ bank simulation and a Python grade management app. I also did some cool epidemiology research involving statistical modeling and cluster analysis. Always excited to tackle tech challenges and collaborate on innovative projects!
+I enjoy creating fun and exciting projects using a variety of programming languages and technologies. Currently, I'm a Performance Research Intern at D-Wave Systems, where I get to combine my love for software engineering with quantum computing. I’ve recently given my personal website a fresh upgrade with some awesome new features—feel free to check it out! Always open to collaborating on cool projects or joining hackathons, so don’t hesitate to reach out!
 
-* 🌍  I'm based in Vancouver
-* ✉️  You can contact me at [zkpAndy@outlook.com](mailto:zkpAndy@outlook.com)
-* 🚀  I'm currently working on [ScholarSerpent](http://https://github.com/AndyZzzZzzZzz/ScholarSerpent)
-* 🧠  I'm learning Tensorflow, Numpy, and React
-* 🤝  I'm open to collaborating on data-driven applications
-* ⚡  I competed in the League of Legends: Wild Rift North America Qualifier!
+* 🌍 Based in Vancouver
+* ✉️ Reach me at [zkpAndy@outlook.com](mailto:zkpAndy@outlook.com)
+* 🚀 Currently building a server-side database project with Ruby on Rails
+* 🧠 Passionate about competitive programming—check out my [HackerRank](https://www.hackerrank.com/) or [LeetCode](https://leetcode.com/) profiles!
+* 🌐 Explore my website at [zkpandy.com](https://zkpandy.com)
+
 
 ### Skills
 
