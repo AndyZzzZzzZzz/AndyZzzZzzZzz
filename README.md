@@ -59,11 +59,12 @@ I enjoy creating fun and exciting projects using a variety of programming langua
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/AndyZzzZzzZzz/ScholarSerpent" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyZzzZzzZzz&repo=ScholarSerpent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+   <a href="https://github.com/AndyZzzZzzZzz/Portfolio" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyZzzZzzZzz&repo=Portfolio&title_color=4a90e2&text_color=333333&icon_color=50e3c2&bg_color=f4f4f4&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/AndyZzzZzzZzz/Bank_Simulation" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyZzzZzzZzz&repo=Bank_Simulation&title_color=ff6347&text_color=ffffff&icon_color=ff4500&bg_color=000000&hide_border=true&locale=en" />
+  
+  <a href="https://github.com/AndyZzzZzzZzz/ScholarSerpent" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyZzzZzzZzz&repo=ScholarSerpent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
