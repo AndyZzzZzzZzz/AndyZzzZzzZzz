@@ -9,7 +9,7 @@ I enjoy creating fun and exciting projects using a variety of programming langua
 * 🌍 Based in Vancouver
 * ✉️ Reach me at [zkpAndy@outlook.com](mailto:zkpAndy@outlook.com)
 * 🚀 Currently building a server-side database project with Ruby on Rails
-* 🧠 Passionate about [competitive programming]([https://leetcode.com/](https://leetcode.com/u/AndyZzzZzzZzz/))!
+* 🧠 Passionate about [competitive programming](https://leetcode.com/u/AndyZzzZzzZzz/)!
 * 🌐 Explore my website at [zkpandy.com](https://zkpandy.com)
 
 
