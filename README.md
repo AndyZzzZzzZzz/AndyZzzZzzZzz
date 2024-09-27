@@ -55,16 +55,24 @@ I enjoy creating fun and exciting projects using a variety of programming langua
 <p align="left"> <a href="https://discord.com/users/zkpandy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/AndyZzzZzzZzz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/0andyz0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/andy-zhang-sfu/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyZzzZzzZzz&theme=dark&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyZzzZzzZzz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180px" />
+</div>
+
+
+[![](https://visitcount.itsvg.in/api?id=AndyZzzZzzZzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-<a href="https://github.com/AndyZzzZzzZzz/Portfolio" align="left">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyZzzZzzZzz&repo=Portfolio&title_color=50e3c2&text_color=ffffff&icon_color=50e3c2&bg_color=1c1917&hide_border=true&locale=en" />
+<a href="[https://github.com/AndyZzzZzzZzz/SquadMatch](https://github.com/AndyZzzZzzZzz/SquadMatch)" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyZzzZzzZzz&repo=SquadMatch&title_color=50e3c2&text_color=ffffff&icon_color=50e3c2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 
-<a href="https://github.com/AndyZzzZzzZzz/ScholarSerpent" align="right">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyZzzZzzZzz&repo=ScholarSerpent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+<a href="https://github.com/AndyZzzZzzZzz/dwave-system" align="right">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AndyZzzZzzZzz&repo=dwave-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
