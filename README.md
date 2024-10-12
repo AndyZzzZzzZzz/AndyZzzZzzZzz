@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Data Scientist
 -----------------------------------
 
-I enjoy creating fun and exciting projects using a variety of programming languages and technologies. Currently, I'm a Performance Research Intern at D-Wave Systems, where I get to combine my love for software engineering with quantum computing. I’ve recently given my personal website a fresh upgrade with some awesome new features—feel free to check it out! Always open to collaborating on cool projects or joining hackathons, so don’t hesitate to reach out!
+I enjoy creating fun and exciting projects using a variety of programming languages and technologies. Currently, I'm a Performance Research Intern at D-Wave Systems, where I get to combine my love for software engineering with quantum computing. I recently participated in StormHacks 2024 with my friends, where we built a cool AI-powered note-taking app. It features speech-to-text functionality and supports multiple languages, making it super versatile and user-friendly! Always open to collaborating on cool projects or joining hackathons, so don’t hesitate to reach out!
 
 * 🌍 Based in Vancouver
 * ✉️ Reach me at [zkpAndy@outlook.com](mailto:zkpAndy@outlook.com)
-* 🚀 Currently building a server-side database project with Ruby on Rails
-* 🧠 Passionate about [competitive programming](https://leetcode.com/u/AndyZzzZzzZzz/)!
+* 🚀 Currently building amazing projects with [SFU Open Source Development Club](https://github.com/sfuosdev)
+* 🧠 Diving into the field of [quantum annealing]([https://leetcode.com/u/AndyZzzZzzZzz/](https://github.com/dwavesystems/dwave-ocean-sdk))!
 * 🌐 Explore my website at [zkpandy.com](https://zkpandy.com)
 
 
