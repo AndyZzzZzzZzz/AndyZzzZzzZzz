@@ -9,7 +9,7 @@ I enjoy creating fun and exciting projects using a variety of programming langua
 * 🌍 Based in Vancouver
 * ✉️ Reach me at [zkpAndy@outlook.com](mailto:zkpAndy@outlook.com)
 * 🚀 Currently building amazing projects with [SFU Open Source Development Club](https://github.com/sfuosdev)
-* 🧠 Diving into the field of [quantum annealing]([https://leetcode.com/u/AndyZzzZzzZzz/](https://github.com/dwavesystems/dwave-ocean-sdk))!
+* 🧠 Diving into the field of [quantum annealing](https://github.com/dwavesystems/dwave-ocean-sdk)!
 * 🌐 Explore my website at [zkpandy.com](https://zkpandy.com)
 
 
