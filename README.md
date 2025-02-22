@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Data Scientist
 -----------------------------------
 
-I enjoy creating fun and exciting projects using a variety of programming languages and technologies. Currently, I'm a Performance Research Intern at D-Wave Systems, where I get to combine my love for software engineering with quantum computing. I recently participated in StormHacks 2024 with my friends, where we built a cool AI-powered note-taking app. It features speech-to-text functionality and supports multiple languages, making it super versatile and user-friendly! Always open to collaborating on cool projects or joining hackathons, so don’t hesitate to reach out!
+I enjoy tackling complex problems by blending theoretical knowledge with programming techniques. This GitHub repository serves as a sandbox for me to build, explore, and learn. Previously, I was a Performance Research Intern at D-Wave Systems, so you'll find repositories showcasing my contributions to state-of-the-art quantum computing research—feel free to explore. You'll also find projects from hackathons I participated in with friends, small personal projects, and course-related work. I’m passionate about competitive programming, so I regularly share notes and solutions to my favorite problems.
 
 * 🌍 Based in Vancouver
 * ✉️ Reach me at [zkpAndy@outlook.com](mailto:zkpAndy@outlook.com)
