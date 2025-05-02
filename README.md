@@ -1,16 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andy Zhang
 ==================================================================================================================================
 
-Software Engineer | Data Scientist
+Software Developer | Research Engineer
 -----------------------------------
 
 I enjoy tackling complex problems by blending theoretical knowledge with programming techniques. This GitHub repository serves as a sandbox for me to build, explore, and learn. Previously, I was a Performance Research Intern at D-Wave Systems, so you'll find repositories showcasing my contributions to state-of-the-art quantum computing research—feel free to explore. You'll also find projects from hackathons I participated in with friends, small personal projects, and course-related work.
 
-* 🌍 Based in Vancouver
-* ✉️ Reach me at [zkpAndy@outlook.com](mailto:zkpAndy@outlook.com)
-* 🚀 Currently building amazing projects with [SFU Open Source Development Club](https://github.com/sfuosdev)
-* 🧠 Diving into the field of [quantum annealing](https://github.com/dwavesystems/dwave-ocean-sdk)!
-* 🌐 Explore my website at [zkpandy.com](https://zkpandy.com)
+* Based in Vancouver
+* Reach me at [zkpAndy@outlook.com](mailto:zkpAndy@outlook.com)
+* Explore my contribution to [quantum annealing](https://github.com/dwavesystems/dwave-ocean-sdk)!
 
 
 ### Programming Skills
