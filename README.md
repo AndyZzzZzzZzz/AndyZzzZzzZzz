@@ -20,10 +20,3 @@ When I'm not profiling systems, I do competitive programming for fun. Feel free 
 
 **Tools & Infra:** Linux | Docker | Kubernetes | gRPC | NGINX | PostgreSQL | Redis
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyZzzZzzZzz&theme=dark&hide_border=true" height="170px" alt="GitHub Streak" />
-</div>
