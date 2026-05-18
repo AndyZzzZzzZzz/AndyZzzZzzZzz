@@ -26,17 +26,4 @@ When I'm not profiling systems, I do competitive programming for fun. Feel free 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyZzzZzzZzz&theme=dark&hide_border=true" height="170px" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyZzzZzzZzz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170px" alt="Top Languages" />
-</div>
-
-### 🏆 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/AndyZzzZzzZzz/beyond-gpu-kernels">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndyZzzZzzZzz&repo=beyond-gpu-kernels&title_color=50e3c2&text_color=ffffff&icon_color=50e3c2&bg_color=1c1917&hide_border=true&locale=en" width="40%" alt="Beyond GPU Kernels" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/dwavesystems/dwave-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dwavesystems&repo=dwave-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="40%" alt="D-Wave System" />
-  </a>
 </div>
