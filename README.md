@@ -1,18 +1,10 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"> I'm Andy Zhang
+# Andy Zhang
+Systems Engineer specializing in low-latency architectures, GPU acceleration, database internals, and networking protocols. 
 
-**Systems Software Engineer | Competitive Programmer | Research Assistant**
+### Background
+* Currently at **NVIDIA** (Hardware Infrastructure), focusing on NCCL development, AI infrastructure, and compute clusters.
+* Previously contributed to open-source projects including **PyTorch** and the [D-Wave Ocean SDK](https://github.com/dwavesystems/dwave-ocean-sdk).
+* Competitive programming enthusiast. My archives for [Codeforces](https://github.com/AndyZzzZzzZzz/codeforce) and [ICPC](https://github.com/AndyZzzZzzZzz/ICPC-Problemset) serve as testing grounds for algorithmic efficiency and data structure optimization.
 
-I'm a systems developer who loves turning complex theory into high-performance code. This GitHub is where I keep my experiments, research, and personal builds.
-
-Previously, I helped push open-source quantum computing forward by contributing to the [Ocean SDK](https://github.com/dwavesystems/dwave-ocean-sdk). These days, my main focus is exploring database internals, GPU acceleration, and low-latency architecture.
-
-When I'm not profiling systems, I do competitive programming for fun. Feel free to browse my [Codeforces problemsets](https://github.com/AndyZzzZzzZzz/codeforce), [ICPC solutions](https://github.com/AndyZzzZzzZzz/ICPC-Problemset), and [club exercises](https://github.com/AndyZzzZzzZzz/SFU_CompProg).
- 
 ---
-
-### 🛠️ Core Tech Stack
-
-**Languages:** C++ | C | Rust | Go | Python
-
-**Tools & Infra:** Linux | Docker | Kubernetes | gRPC | NGINX | PostgreSQL | Redis
-
+🌐 [Portfolio Website]([https://yourwebsite.com](https://andyzzzzzzzzz.github.io/))
